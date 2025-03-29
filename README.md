@@ -1,5 +1,6 @@
 ## Hi, I'm Johnny! 👋
 📊 Aspiring People Analyst | HR & People Science Enthusiast
+
 🔍 Interests: I/O Psychology, People Science Analytics, HR Tech, Data Visualization, People Consulting
 💻 Tech Stack: Languages: R, Excel
 📫 How to reach me: johnchristopher.lo308@gmail.com | (253) 534-5457
